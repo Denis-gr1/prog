@@ -18,6 +18,8 @@ python main.py
 ```
 python zapr.py
 ```
+## crow’s foot notation
+![cfn](pics14/cfn.png)
 ## Фото работы программы
 ### База данных
 ![p1](pics14/p1.png)
