@@ -12,4 +12,4 @@ python main.py
 
 ![p3](pics13/p3.png)
 
-![p4](pics13/p4s.png)
+![p4](pics13/p4.png)
